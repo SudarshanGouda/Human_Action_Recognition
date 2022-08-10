@@ -1,6 +1,6 @@
 # Human_Action_Recognition
 
-## Models are using CNN , VGG19 and ResNet50
+## Models- CNN , VGG19 and ResNet50
 
 
 The dataset features 15 different classes of Human Activities.
